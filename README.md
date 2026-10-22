@@ -12,7 +12,6 @@ https://github.com/user-attachments/assets/9a33a207-14f3-4bfd-b49c-0c5b8e3c3656
 1. You press a button on the app
 2. The app sends a command over Bluetooth
 3. The ESP32 receives it and tells the motors or gripper what to do
-4. The car obeys (most of the time)
 
 ## Hardware
 - ESP32 
